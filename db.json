@@ -747,9 +747,7 @@
       "category": "Electronics",
       "type": "Mobile",
       "special_features": "3.5mm Jack, IR Blaster, Dedicated Micro SD Slot, Splash proof design, Corning Gorilla Glass protection,  Camera setup Portrait | Pro mode | Night mode | Document mode | Panorama | Short video | Time-lapse"
-    }
-  ],
-  "health": [
+    },
     {
       "id": 26,
       "image": [
@@ -937,9 +935,7 @@
       "type": "fitness band",
       "material": "Silicone",
       "display": "AMOLED"
-    }
-  ],
-  "Eatwell": [
+    },
     {
       "id": 35,
       "image": [
