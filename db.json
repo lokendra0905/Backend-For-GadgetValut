@@ -1,5 +1,5 @@
 {
-  "Electronics": [
+  "Products": [
     {
       "id": 1,
       "image": [
@@ -1171,5 +1171,6 @@
       "voltage": 120,
       "bastek-capacity": 4
     }
-  ]
+  ],
+  "Users": []
 }
